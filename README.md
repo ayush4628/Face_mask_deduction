@@ -12,7 +12,7 @@ A Deep Learning-powered web application that detects whether a person is wearing
 ## 📌 Project Highlights
 
 - 🧠 Built a CNN model using TensorFlow/Keras to classify images as *With Mask* or *Without Mask*  
-- 🖼️ Preprocessed over 7,500 images: resized, normalized, and converted them to RGB  
+- 🖼️ Preprocessed over 7,500 images:- resized, normalized, and converted them to RGB  
 - ✂️ Split dataset into training and testing sets to optimize generalization  
 - 📈 Achieved **92.46%** accuracy on test data  
 - 📊 Visualized training/validation performance using loss and accuracy curves  
